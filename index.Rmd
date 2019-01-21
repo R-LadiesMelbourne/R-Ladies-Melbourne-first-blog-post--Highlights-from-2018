@@ -30,7 +30,7 @@ library(emo)
 
 # Where are we at?
 
-The R-Ladies Melbourne chapter was founded in September 2016 by [Göknur Giner](https://twitter.com/goknurginer) and [Sepideh Foroutan](https://twitter.com/S_Foroutan). Together with [Roxane Legaie](https://twitter.com/RoxaneLegaie), [Saskia Freytag](https://twitter.com/trashystats), Alex Garnham, [Soroor Zadeh](https://twitter.com/SoroorHediyeh) and [myself](https://twitter.com/annaquagli) they organized the first committee meeting at the Walter and Eliza Hall Institute and the [launch event](https://www.meetup.com/R-Ladies-Melbourne/events/234683544/) took of in October! 
+The R-Ladies Melbourne chapter was founded in September 2016 by [Göknur Giner](https://twitter.com/goknurginer) and [Sepideh Foroutan](https://twitter.com/S_Foroutan). Together with [Roxane Legaie](https://twitter.com/RoxaneLegaie), [Saskia Freytag](https://twitter.com/trashystats), Alex Garnham, [Soroor Zadeh](https://twitter.com/SoroorHediyeh) and [myself](https://twitter.com/annaquagli) they organized the first committee meeting at the Walter and Eliza Hall Institute and the [launch event](https://www.meetup.com/R-Ladies-Melbourne/events/234683544/) took place in October! 
 
 Time flies, and it’s already been two years since our launch event. And just as a holiday ends and recollections of all the best moments begin to take form in your mind (can’t really think of any bad one!), I decided to take some time to collect the pieces of a special year for the Aussie R and R-Ladies community.
 
