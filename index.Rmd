@@ -1,5 +1,5 @@
 ---
-title: "R-Ladies Melbourne highlights from 2018!"
+title: "R-Ladies Melbourne 2017-2018 highlights!"
 author: "Anna Quaglieri, 2018 Main organiser"
 date: "January 2019"
 output:
