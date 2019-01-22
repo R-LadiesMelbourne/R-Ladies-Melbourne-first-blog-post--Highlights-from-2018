@@ -25,26 +25,30 @@ library(magick)
 library(png)
 library(grid)
 library(emo)
-#library(icon)
+library(icon)
 ```
 
-# Where are we at?
+# Who we are
 
-The R-Ladies Melbourne chapter was founded in September 2016 by [Göknur Giner](https://twitter.com/goknurginer) and [Sepideh Foroutan](https://twitter.com/S_Foroutan). Together with [Roxane Legaie](https://twitter.com/RoxaneLegaie), [Saskia Freytag](https://twitter.com/trashystats), Alex Garnham, [Soroor Zadeh](https://twitter.com/SoroorHediyeh) and [myself](https://twitter.com/annaquagli) they organized the first committee meeting at the Walter and Eliza Hall Institute and the [launch event](https://www.meetup.com/R-Ladies-Melbourne/events/234683544/) took place in October! 
+[R-Ladies](https://rladies.org/) is a world-wide organisation founded in San Francisco by [Gabriela de Queiroz](https://k-roz.com/) with the aim of promoting gender diversity within the [`r icon::fa_r_project(colour="#88398A")`](https://www.r-project.org/) community.
+
+As the first R-Ladies chapater in Australia, the R-Ladies Melbourne was founded in September 2016 by [Göknur Giner](https://twitter.com/goknurginer) and [Sepideh Foroutan](https://twitter.com/S_Foroutan). Together with [Roxane Legaie](https://twitter.com/RoxaneLegaie), [Saskia Freytag](https://twitter.com/trashystats), [Alexandra Garnham](https://www.wehi.edu.au/news/illuminate-newsletter/december-2014/staff-profile-ms-alexandra-garnham), [Soroor Zadeh](https://twitter.com/SoroorHediyeh) and [myself](https://twitter.com/annaquagli) the first committee meeting was setup at the Walter and Eliza Hall Institute and the [launch event](https://www.meetup.com/R-Ladies-Melbourne/events/234683544/) took place in October! [Marie Trussart](https://twitter.com/MTrussart) joint in December of the same year. Since then, new groups have started in Adelaide, Sydney and Canberra!
+
+# Where are we at?
 
 Time flies, and it’s already been two years since our launch event. And just as a holiday ends and recollections of all the best moments begin to take form in your mind (can’t really think of any bad one!), I decided to take some time to collect the pieces of a special year for the Aussie R and R-Ladies community.
 
 We celebrated our first anniversary a little over a year ago, and reached nearly 600 members on Meetup. In 2018 we celebrated again on the 17th of October and reached over 1000 members! We continued to host monthly events from February to December, and couldn’t really be happier with the consistently strong participation at our events across the year. Of course, we can’t claim that we ordinarily would attract 500 members at a given event (we would really need to have hired a bigger space…) but the steady increase in member turnout over the year is a reminder to us that this group is still needed and continues to attract more interest!
 
 
-```{r fig.cap="Fig1. New members on meetup and events from October 2017 to October 2018.", echo = FALSE,fig.asp=0.50}
+```{r fig.cap="Fig1. New members on meetup and events from October 2017 to October 2018.", echo = FALSE,fig.asp=0.60}
 img <- readPNG("AllPhotos/time_series.png")
 grid.raster(img)
 ```
 
 <br>
   
-  ```{r fig.cap="Fig2. Speakers from November 2017 to October 2018", echo = FALSE,fig.asp=0.50}
+```{r fig.cap="Fig2. Speakers from November 2017 to October 2018", echo = FALSE,fig.asp=0.50}
 img <- readPNG("AllPhotos/faces2018.png")
 grid.raster(img)
 ```
@@ -162,4 +166,4 @@ Belinda Maher was our speaker in [February 2018](https://www.youtube.com/watch?v
 # Aknowledgements
 
 * To produce this document I used some of the tips in [Pimp my Rmd](https://holtzy.github.io/Pimp-my-rmd/#use_dt_for_tables) by [Yan Holtz](https://github.com/holtzy)
-* Thanks to my friend Steven for proof reading my first blog post! Thanks to Saskia, Sepideh and Marie for their helpful suggestions!
+* Thanks to my friend Steven for proof reading my first blog post! Thanks to Saskia, Marie and Goöknur and in particular to Sepideh for their helpful suggestions and additions!
