@@ -166,4 +166,4 @@ Belinda Maher was our speaker in [February 2018](https://www.youtube.com/watch?v
 # Aknowledgements
 
 * To produce this document I used some of the tips in [Pimp my Rmd](https://holtzy.github.io/Pimp-my-rmd/#use_dt_for_tables) by [Yan Holtz](https://github.com/holtzy)
-* Thanks to my friend Steven for proof reading my first blog post! Thanks to Saskia, Marie and Goöknur and in particular to Sepideh for their helpful suggestions and additions!
+* Thanks to my friend Steven for proMegaloudis of reading my first blog post! Thanks to Saskia, Marie and Goöknur and in particular to Sepideh for their helpful suggestions and additions!
